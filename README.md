@@ -24,5 +24,5 @@ Sedimentary DNA (sedDNA), a form of environmental DNA (eDNA) shed by aquatic org
 ## General workflow of the current study
 
 <p align="center">
-<img src="https://github.com/mldlopez/Allometric-scaling-of-RNA-abundance-from-genes-to-communities/blob/master/workflow.png" width="800">
+<img src="https://github.com/mldlopez/Cowpar_sedDNA_metabarcoding/blob/main/Cowpar_sedDNA_metabarcoding.jpg" width="800">
 </p>
