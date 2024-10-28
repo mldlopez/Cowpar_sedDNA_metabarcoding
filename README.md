@@ -4,9 +4,13 @@
 
 <i>
 Department of Biochemistry and Microbiology, University of Victoria, Victoria, British Columbia, Canada V8P 5C2
+
 Chipewyan Prairie First Nation, General Delivery Chard, Alberta T0P 1G0
+
 Department of Biological Sciences, University of Calgary, Calgary, Alberta, Canada T2N 1N4
+
 Hakai Research Institute, Campbell River, British Columbia, Canada V9W 0B7
+
 Environment and Climate Change Canada, Burlington, Ontario, Canada L7S 1A1
 
 </i>
